@@ -7,7 +7,7 @@
 
 <h3 align="left">Vous pouvez aussi me retrouver:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nicolas--chiron" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vcvc" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nicolas--chiron" target="blank">Sur LinkedIn</a>
 </p>
 
 <h3 align="left">Langages et outils:</h3>
