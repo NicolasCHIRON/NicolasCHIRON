@@ -3,12 +3,12 @@
 
 - 🌱 Je continue d'apprendre le **développement web grâce à <a href="https://www.thehackingproject.org/">The Hacking Project </a>**
 
-- 📫 N'hésitez pas à me contacter **chiron.nic@gmail.com**
+- 📫 N'hésitez pas à me contacter sur **chiron.nic@gmail.com**
 
 <h3 align="left">Vous pouvez aussi me retrouver:</h3>
 <p align="left">
-  <a href="www.linkedin.com/in/nicolas--chiron >
-    Sur LinkdeIn
+  <a href="www.linkedin.com/in/nicolas--chiron" >
+   * Sur LinkdeIn
   </a>
 </p>
 
