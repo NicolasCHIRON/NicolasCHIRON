@@ -8,7 +8,7 @@
 <h3 align="left">Vous pouvez aussi me retrouver:</h3>
 <p align="left">
   <a href="www.linkedin.com/in/nicolas--chiron" >
-   * Sur LinkdeIn
+   - Sur LinkedIn
   </a>
 </p>
 
